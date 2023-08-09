@@ -1,5 +1,7 @@
 # Flutter
 
+![](https://github.com/Rohinsri/AlippoAssignment/blob/main/AlippoFlutter.mp4)
+
 # How to build the App?
 1. Clone the GitHub Repository
 2. Create a new Flutter Project in your local
