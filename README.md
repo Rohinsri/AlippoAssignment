@@ -1,6 +1,10 @@
 # Flutter
 
-![](https://github.com/Rohinsri/AlippoAssignment/blob/main/AlippoFlutter.mp4)
+
+https://github.com/Rohinsri/AlippoAssignment/assets/61387189/99f51989-f2ab-4da5-adac-da7e7bb441b1
+
+
+
 
 # How to build the App?
 1. Clone the GitHub Repository
